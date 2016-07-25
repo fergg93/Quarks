@@ -1,21 +1,3 @@
-#  File: Mondrian.py
-
-#  Description: Draws abstract art
-
-#  Student Name: Fernando Garcia (id #: 40)
-
-#  Student UT EID: fg4877
-
-#  Course Name: CS 313E
-
-#  Unique Number: 51730
-
-#  Date Created: 03/07/15
-
-#  Date Last Modified: 03/07/15
-
-
-
 "Quarks"
 #by Fernando Garcia
 
